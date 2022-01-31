@@ -15,15 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ElviraCher/react-first-app.git"
+    "url": "git+https://github.com/ElviraCher/environment-for-react.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ElviraCher/react-first-app/issues"
+    "url": "https://github.com/ElviraCher/environment-for-react/issues"
   },
-  "homepage": "https://github.com/ElviraCher/react-first-app#readme",
+  "homepage": "https://github.com/ElviraCher/environment-for-react#readme",
   "devDependencies": {
     "@babel/core": "^7.16.7",
     "@babel/preset-env": "^7.16.8",
