@@ -8,8 +8,10 @@ interface ExampleProps {
 export function Example(props: ExampleProps) {
   const { text } = props;
   return (
-        <div>
-          <p data-testid="example" className="example">{text}</p>
-        </div>
-    );
+    <div>
+      <p data-testid="example" className="example">
+        {text}
+      </p>
+    </div>
+  );
 }
